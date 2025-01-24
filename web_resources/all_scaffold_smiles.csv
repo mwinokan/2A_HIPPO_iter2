@@ -1,0 +1,13 @@
+id,smiles,tags
+122393,O=C(NCCc1cocn1)N1CCc2ccccc21,"{'iter2 scaffold', 'hits', 'Syndirella scaffold', 'iter2'}"
+122489,COc1cccnc1CC(=O)N1CCCC(C(N)=O)C1,"{'[Other] upload_061224', 'P3_20241211', 'Syndirella scaffold', 'iter2 scaffold', 'iter2', '[Other] upload_1 2024-12-06'}"
+122496,CSc1ccccc1CC(=O)N1CCCC(C(N)=O)C1,"{'[Other] upload_061224', 'P3_20241211', 'Syndirella scaffold', 'iter2 scaffold', 'iter2', '[Other] upload_1 2024-12-06'}"
+124220,O=C(NCCc1cocn1)C1CCc2ccccc21,"{'iter2 scaffold', 'iter2', 'Syndirella scaffold'}"
+124229,NC(=O)C1CCCN(C(=O)Cc2ccccc2)C1,"{'iter2 scaffold', 'iter2', 'Syndirella scaffold'}"
+124230,NC(=O)C1CCCN(C(=O)Cc2ccccn2)C1,"{'iter2 scaffold', 'iter2', 'Syndirella scaffold'}"
+124231,NC(=O)C1CCCN(C(=O)C2CCOc3ccccc32)C1,"{'iter2 scaffold', 'iter2', 'Syndirella scaffold'}"
+124232,NC(=O)C1CCCN(C(=O)Cc2ccn[nH]2)C1,"{'iter2 scaffold', 'iter2', 'Syndirella scaffold'}"
+124233,O=CNc1ccccc1OCc1ncccn1,"{'iter2 scaffold', 'iter2', 'Syndirella scaffold'}"
+124235,NC(=O)C1CCCN(C(=O)Cc2ccccc2)CC1,"{'iter2 scaffold', 'iter2', 'Syndirella scaffold'}"
+124236,NC(=O)C1CCCN(C(=O)C2CCc3ccccc32)C1,"{'iter2 scaffold', 'iter2', 'Syndirella scaffold'}"
+124237,NC(=O)C1CCN(C(=O)Cc2ccccc2)C1,"{'iter2 scaffold', 'iter2', 'Syndirella scaffold'}"
